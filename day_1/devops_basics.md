@@ -1,3 +1,3 @@
 ```markdown
-![domain_reading](domain_reading.png)
+![domain_reading](./domain_reading.png)
 ```
