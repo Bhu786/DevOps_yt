@@ -144,5 +144,10 @@ git commit -m "remove env from tracking"
 ---
 
 ================================
+## git log 
+
+=========================
+only conflict comes by ==> same file and same line 
+=========================
 
 
