@@ -3,7 +3,7 @@ The slide you shared is explaining **Docker Hub** (part of the comparison *Docke
 ---
 
 ## 1️⃣ Docker Hub
-
+====
 **Docker Hub** is a **public cloud service** provided by Docker Inc. that stores and distributes container images.
 
 ### Key Features
